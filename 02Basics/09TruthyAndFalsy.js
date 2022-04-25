@@ -11,3 +11,9 @@ if (usr) {
 if (2 === user) {
     console.log('With strict type checking');
 }
+
+// undefined
+// null
+// 0
+// ''
+// NaN

@@ -17,3 +17,4 @@ if (2 === user) {
 // 0
 // ''
 // NaN
+//these are the falsy values not the FALSE values, there's a diffrence

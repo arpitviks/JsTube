@@ -13,7 +13,7 @@ class User {
     enrollCourse(name) {                //This is nothing but a setter
         this.#courseList.push(name);
     }
-    getCourseList() {                   //This is  nothing but a getter
+    getCourseList() {                   //This is nothing but a getter
         return this.#courseList
     }
 }

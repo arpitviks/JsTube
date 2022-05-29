@@ -8,3 +8,4 @@ function init() {
 }
 
 var val = init();
+val();
